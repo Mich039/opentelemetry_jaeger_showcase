@@ -27,7 +27,7 @@ Niederländer - Set up AKS, Write and Deploy Microservices Node.js
 
 ## ARCHITECTURE
 
-
+![download](https://user-images.githubusercontent.com/20288604/211396297-c386a1ba-fd8e-4f87-b9cb-e57649ad171b.png)
 
 Note: We won't be covering anything in terms of user authorization etc. since it is clearly not part of scope of the course.
 
